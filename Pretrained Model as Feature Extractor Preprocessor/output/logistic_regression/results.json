@@ -1,0 +1,1 @@
+{"Precision score": 0.7733598409542743, "Recall score": 0.9974358974358974, "TP": 389.0, "FP": 114.0, "TN": 120.0, "FN": 1.0, "Best hyperparameter(s)": {"C": 0.15}, "Best score": 0.9803300517720764}
